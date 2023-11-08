@@ -1,0 +1,1 @@
+geometry_msgs/Vector3 euler_angle

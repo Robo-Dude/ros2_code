@@ -1,0 +1,106 @@
+[0.989s] Invoking command in '/home/ros2/ros2_ws/src/forklift_dummy': PYTHONPATH=/home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/prefix_override:/home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/forklift_dummy build --build-base /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build install --record /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/install.log --single-version-externally-managed
+[1.227s] running egg_info
+[1.227s] creating build/forklift_dummy/forklift_dummy.egg-info
+[1.242s] writing build/forklift_dummy/forklift_dummy.egg-info/PKG-INFO
+[1.242s] writing dependency_links to build/forklift_dummy/forklift_dummy.egg-info/dependency_links.txt
+[1.243s] writing entry points to build/forklift_dummy/forklift_dummy.egg-info/entry_points.txt
+[1.243s] writing requirements to build/forklift_dummy/forklift_dummy.egg-info/requires.txt
+[1.243s] writing top-level names to build/forklift_dummy/forklift_dummy.egg-info/top_level.txt
+[1.243s] writing manifest file 'build/forklift_dummy/forklift_dummy.egg-info/SOURCES.txt'
+[1.272s] reading manifest file 'build/forklift_dummy/forklift_dummy.egg-info/SOURCES.txt'
+[1.273s] writing manifest file 'build/forklift_dummy/forklift_dummy.egg-info/SOURCES.txt'
+[1.273s] running build
+[1.273s] running build_py
+[1.274s] creating /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build
+[1.274s] creating /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib
+[1.274s] creating /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.274s] copying forklift_dummy/controller.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.274s] copying forklift_dummy/sub.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.274s] copying forklift_dummy/__init__.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/depth_cam.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/test.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/cam_auto.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/paranoma.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/euler_angle.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.275s] copying forklift_dummy/videoStitcher.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/client.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/test2.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/multi_camera.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/sample.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/auto_setpoint.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.276s] copying forklift_dummy/cv_real.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy
+[1.277s] creating /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules
+[1.277s] copying forklift_dummy/submodules/detection.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules
+[1.277s] copying forklift_dummy/submodules/paranoma.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules
+[1.277s] copying forklift_dummy/submodules/centroidtracker.py -> /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules
+[1.278s] running install
+[1.278s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.278s] !!
+[1.278s] 
+[1.278s]         ********************************************************************************
+[1.278s]         Please avoid running ``setup.py`` directly.
+[1.278s]         Instead, use pypa/build, pypa/installer or other
+[1.278s]         standards-based tools.
+[1.278s] 
+[1.278s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.278s]         ********************************************************************************
+[1.278s] 
+[1.279s] !!
+[1.279s]   self.initialize_options()
+[1.283s] running install_lib
+[1.298s] creating /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.298s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/controller.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.298s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/sub.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/__init__.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/depth_cam.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/test.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/cam_auto.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/paranoma.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/euler_angle.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.299s] creating /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules/detection.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules
+[1.299s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules/paranoma.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/submodules/centroidtracker.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/videoStitcher.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/client.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/test2.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/multi_camera.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/sample.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/auto_setpoint.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.300s] copying /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build/lib/forklift_dummy/cv_real.py -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy
+[1.301s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/controller.py to controller.cpython-310.pyc
+[1.302s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/sub.py to sub.cpython-310.pyc
+[1.302s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/__init__.py to __init__.cpython-310.pyc
+[1.302s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/depth_cam.py to depth_cam.cpython-310.pyc
+[1.303s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/test.py to test.cpython-310.pyc
+[1.303s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/cam_auto.py to cam_auto.cpython-310.pyc
+[1.305s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/paranoma.py to paranoma.cpython-310.pyc
+[1.305s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/euler_angle.py to euler_angle.cpython-310.pyc
+[1.306s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules/detection.py to detection.cpython-310.pyc
+[1.307s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules/paranoma.py to paranoma.cpython-310.pyc
+[1.307s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/submodules/centroidtracker.py to centroidtracker.cpython-310.pyc
+[1.308s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/videoStitcher.py to videoStitcher.cpython-310.pyc
+[1.308s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/client.py to client.cpython-310.pyc
+[1.309s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/test2.py to test2.cpython-310.pyc
+[1.309s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/multi_camera.py to multi_camera.cpython-310.pyc
+[1.309s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/sample.py to sample.cpython-310.pyc
+[1.310s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/auto_setpoint.py to auto_setpoint.cpython-310.pyc
+[1.310s] byte-compiling /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy/cv_real.py to cv_real.cpython-310.pyc
+[1.311s] running install_data
+[1.324s] creating /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/share/ament_index
+[1.324s] creating /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/share/ament_index/resource_index
+[1.324s] creating /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/share/ament_index/resource_index/packages
+[1.325s] copying resource/forklift_dummy -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/share/ament_index/resource_index/packages
+[1.325s] copying package.xml -> /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/share/forklift_dummy
+[1.325s] running install_egg_info
+[1.341s] Copying build/forklift_dummy/forklift_dummy.egg-info to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages/forklift_dummy-0.0.0-py3.10.egg-info
+[1.342s] running install_scripts
+[1.485s] Installing cam_depth script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing client script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing controller script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing depth_paranoma script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing euler script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing setpoint script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.485s] Installing talker script to /home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/forklift_dummy
+[1.486s] writing list of installed files to '/home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/install.log'
+[1.511s] Invoked command in '/home/ros2/ros2_ws/src/forklift_dummy' returned '0': PYTHONPATH=/home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/prefix_override:/home/ros2/ros2_ws/src/forklift_dummy/install/forklift_dummy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/forklift_dummy build --build-base /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/build install --record /home/ros2/ros2_ws/src/forklift_dummy/build/forklift_dummy/install.log --single-version-externally-managed

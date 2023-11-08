@@ -1,0 +1,8 @@
+[console_scripts]
+cam_depth = forklift_dummy.cam_auto:main
+client = forklift_dummy.client:main
+controller = forklift_dummy.controller:main
+depth_paranoma = forklift_dummy.depth_cam:main
+euler = forklift_dummy.euler_angle:main
+setpoint = forklift_dummy.auto_setpoint:main
+talker = forklift_dummy.sample:main

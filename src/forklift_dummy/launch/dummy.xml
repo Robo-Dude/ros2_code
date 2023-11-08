@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="forklift_dummy" exec="client" name="sim" namespace="client"/>
+  <node pkg="forklift_dummy" exec="controller" name="sim" namespace="controller"/>
+  <node pkg="forklift_dummy" exec="cam_auto" name="sim" namespace="cam_auto"/>
+</launch>
